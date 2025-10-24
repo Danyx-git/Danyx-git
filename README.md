@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Medina Rodas
 
-<!--
-**Danyx-git/Danyx-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer**  
+Passionate about technology, clean code, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+**Frontend:** HTML, CSS, JavaScript  
+**Backend:** PHP, C#  
+**Databases:** MySQL  
+**CMS / Cloud:** WordPress, Joomla, AWS  
+**Others:** Git, XML, XSL
+
+---
+
+### 📫 Contact
+
+📧 [danielmedinarodas@gmail.com](mailto:danielmedinarodas@gmail.com)  
+📍 Madrid, Spain 🇪🇸  
+
+---
+
+⭐ *“Every line of code is an opportunity to learn something new.”*
