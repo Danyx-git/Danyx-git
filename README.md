@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Medina Rodas
+# 👋 Hi, i'm Danyx
 
 💻 **Web Developer**  
 Passionate about technology, clean code, and continuous learning.
